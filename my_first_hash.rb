@@ -27,8 +27,8 @@ def adding
                   "oil paintings" => 3
                  }
   
-  shipping_method["muskets"] = 2
-  shipping_method["gun powder"] = 4 
+  shipping_manifest["muskets"] = 2
+  shipping_manifest["gun powder"] = 4 
    puts shipping_manifest
 
 end
